@@ -1,0 +1,1 @@
+{"ts":1758726578960,"timer":0,"custom_game_server":true,"game_server":"C:\\Program Files\\Reboot Launcher\\dlls\\reboot.dll","backend":"C:\\Program Files\\Reboot Launcher\\dlls\\cobalt.dll","memory_leak":"C:\\Program Files\\Reboot Launcher\\dlls\\memory.dll"}

@@ -1,0 +1,1 @@
+{"uuid":"8d82887a-ddd2-43e1-a937-b2aef82e28c4","name":"Reboot Game Server","description":"Just another server","account_username":"test@gmail.com","account_password":"","discoverable":false,"headless":true,"auto_restart":true}

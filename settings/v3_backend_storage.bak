@@ -1,0 +1,1 @@
+{"type":0,"local_port":"3551","embedded_port":"3551","embedded_host":"127.0.0.1","remote_host":"teskow","remote_port":"3551","local_host":"127.0.0.1","console_key":458817,"detached":false,"game_server_address":"26.137.28.120"}
